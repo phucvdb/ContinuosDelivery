@@ -15,4 +15,4 @@ I identify that some technical problems need to be solved before to create the w
 
 1. How to run scripts remotely into VMs after VMs creation based on pre-define scripts ( with YAML, XML format)
 
-2. What way to get data and configuration file into VMs ?
+2. What way to get data and configuration files inside VMs ?
